@@ -1,0 +1,6 @@
+file_name = perekl_text.txt
+cod_lang = pl
+vyvid = screen
+count_sym = 906
+word = 132
+rech = 13
